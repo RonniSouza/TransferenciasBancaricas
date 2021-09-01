@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ronni\\Estudo\\C#\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\Users\\Ronni\\estudo\\c#\\dio.bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ronni\\Estudo\\C#\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\Users\\Ronni\\estudo\\c#\\dio.bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ronni\\Estudo\\C#\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\Users\\Ronni\\estudo\\c#\\dio.bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\Users\\Ronni\\Estudo\\C#\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "C:\\Users\\Ronni\\estudo\\c#\\dio.bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\Ronni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ronni\\Estudo\\C#\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\Users\\Ronni\\estudo\\c#\\dio.bank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
